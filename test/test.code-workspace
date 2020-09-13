@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "../testWorkspace"
+        }
+    ],
+    "settings": {
+        "debug.internalConsoleOptions": "neverOpen"
+    }
+}
